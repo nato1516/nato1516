@@ -1,86 +1,121 @@
-<div align="center">
+ <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:17131A,50:352344,100:5B2A86&text=NATOFER.&fontSize=76&fontColor=F3EEF5&fontAlignY=40&desc=WEB%20DEVELOPER%20%2F%2F%20CREATIVE%20TECHNOLOGY&descSize=14&descAlignY=62&animation=fadeIn" alt="NATOFER"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:17131A,45:352344,100:5B2A86&text=NATOFER.&fontSize=90&fontColor=F3EEF5&fontAlignY=42&desc=CODE%20WITH%20PURPOSE%20%E2%80%A2%20DESIGN%20WITH%20INTENTION&descSize=13&descAlignY=65&animation=fadeIn" />
 
-**Building digital experiences with purpose.**
+<br/>
 
-Costa Rica 🇨🇷 · Web Development · WorldSkills Shanghai 2026
+**WEB DEVELOPER · CREATIVE TECHNOLOGY**
 
-[Portfolio](https://github.com/nato1516) · [Projects](https://github.com/nato1516?tab=repositories) · [Contact](mailto:nataliapicadofernandez16@gmail.com)
+Costa Rica 🇨🇷 · WorldSkills Shanghai 2026
+
+[PORTFOLIO](https://github.com/nato1516?tab=repositories)　/　[PROJECTS](https://github.com/nato1516?tab=repositories)　/　[CONTACT](mailto:nataliapicadofernandez16@gmail.com)
 
 </div>
 
----
+<br/>
 
-### THE DEVELOPER
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=E4572E" />
 
-I combine technical thinking with creative problem-solving to build digital experiences that are functional, accessible, and visually considered.
+### <img src="https://img.shields.io/badge/01-ABOUT-5B2A86?style=flat-square" />
 
-My journey spans web development, technical support, networking, and operating systems. I value clean implementation, thoughtful interfaces, and continuous improvement.
+# Technology meets creativity.
 
----
+I build digital experiences with a focus on **functionality, thoughtful interfaces, and clean implementation**. My background combines web development with technical support, networking, and operating systems.
 
-### GITHUB ANALYTICS
+I enjoy turning ideas into practical solutions, learning through experimentation, and solving problems with technology.
+
+<br/>
+
+### <img src="https://img.shields.io/badge/02-TECHNOLOGY-5B2A86?style=flat-square" />
 
 <div align="center">
 
-<a href="https://github.com/nato1516">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nato1516&show_icons=true&hide_border=true&bg_color=17131A&title_color=BB9AF7&icon_color=E4572E&text_color=F3EEF5" alt="GitHub overview"/>
-</a>
-<a href="https://github.com/nato1516">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nato1516&layout=compact&hide_border=true&bg_color=17131A&title_color=BB9AF7&text_color=F3EEF5&langs_count=6" alt="Top languages"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,php,laravel,mysql&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+### <img src="https://img.shields.io/badge/03-SELECTED_WORK-5B2A86?style=flat-square" />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**01 / SURTRIPS**
+
+A travel-focused digital platform.
+
+[↗ Explore project](https://surtrips.com/)
+
+</td>
+<td width="50%" valign="top">
+
+**02 / LA VUELTA DEL COYOTE**
+
+A dedicated web experience.
+
+[↗ Explore project](https://lavueltadelcoyote.vercel.app/home.html)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 / CONGRESO DEL CAFÉ**
+
+A website created for a coffee congress.
+
+[↗ Explore project](https://congreso-de-cafe.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+**04 / MORE IN PROGRESS**
+
+Exploring new ideas, technologies, and ways to build better digital products.
+
+[↗ Browse repositories](https://github.com/nato1516?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### <img src="https://img.shields.io/badge/04-WORLDSKILLS-5B2A86?style=flat-square" />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/WORLDSKILLS_COSTA_RICA-2025-17131A?style=for-the-badge&labelColor=352344" />
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=nato1516&bg_color=17131A&color=BB9AF7&line=E4572E&point=FFB703&area=true&hide_border=true" alt="Contribution activity"/>
+<img src="https://img.shields.io/badge/SILVER_MEDAL-WEB_TECHNOLOGIES-E4572E?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
+
+**Competitor representing Costa Rica**  
+WorldSkills Shanghai 2026
 
 </div>
 
----
+<br/>
 
-### TECHNOLOGY
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,php,laravel,mysql,git,github,docker,vscode&theme=dark" alt="Technologies"/>
-
-</div>
-
----
-
-### SELECTED WORK
-
-| Project | Focus |
-|:--|:--|
-| [SurTrips ↗](https://surtrips.com/) | Travel platform |
-| [La Vuelta del Coyote ↗](https://lavueltadelcoyote.vercel.app/home.html) | Web experience & identity |
-| [Congreso del Café ↗](https://congreso-de-cafe.vercel.app/) | Event website |
-
----
-
-### WORLDSKILLS · 2025—2026
-
-**🥈 Silver Medal — Web Technologies**  
-WorldSkills Costa Rica · National Competition · 2025
-
-**Competitor — Costa Rica 🇨🇷**  
-WorldSkills Shanghai · 2026
-
-Technical preparation with INA and WorldSkills Costa Rica has strengthened my development skills, precision, adaptability, and ability to solve problems under time constraints.
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=5B2A86" />
 
 <div align="center">
 
-**Have something interesting to build?**
+### HAVE AN IDEA? LET'S BUILD IT.
 
 <a href="mailto:nataliapicadofernandez16@gmail.com">
-<img src="https://img.shields.io/badge/LET'S_CONNECT-E4572E?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's connect"/>
+<img src="https://img.shields.io/badge/GET_IN_TOUCH-17131A?style=for-the-badge&logo=gmail&logoColor=BB9AF7" />
 </a>
 
 <br/><br/>
 
-*NATOFER · Designed with intention. Built with curiosity.*
+<sub>© NATOFER · Designed with intention. Built with curiosity.</sub>
 
 </div>
