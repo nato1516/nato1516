@@ -1,183 +1,156 @@
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    NATOFER · README                   -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
+ <div align="center">
 
 <a href="https://github.com/nato1516">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=240&color=0:17131A,50:352344,100:5B2A86&text=NATOFER&fontColor=F3EEF5&fontSize=82&fontAlignY=43&desc=WEB%20DEVELOPER%20%2F%2F%20CREATIVE%20TECHNOLOGY&descSize=15&descAlignY=68&animation=fadeIn" width="100%" alt="NATOFER — Web Developer and Creative Technology"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:17131A,45:352344,100:5B2A86&text=NATOFER&fontColor=F3EEF5&fontSize=82&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20CREATIVE%20TECHNOLOGY&descAlignY=60&descSize=16&animation=fadeIn" alt="NATOFER"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/nato1516">
-  <img src="https://img.shields.io/badge/BASED_IN-COSTA_RICA-17131A?style=flat-square&labelColor=17131A" alt="Based in Costa Rica"/>
-</a>
-<a href="https://worldskills.org/">
-  <img src="https://img.shields.io/badge/WORLDSKILLS-SHANGHAI_2026-5B2A86?style=flat-square&labelColor=17131A" alt="WorldSkills Shanghai 2026"/>
+<img src="https://img.shields.io/badge/PROFILE-NATO1516-5B2A86?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="mailto:nataliapicadofernandez16@gmail.com">
-  <img src="https://img.shields.io/badge/LET'S_TALK-E4572E?style=flat-square&labelColor=17131A" alt="Contact me"/>
+<img src="https://img.shields.io/badge/CONTACT-LET'S_TALK-E4572E?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/>
+</a>
+<a href="https://worldskills.org/">
+<img src="https://img.shields.io/badge/WORLDSKILLS-SHANGHAI_2026-17131A?style=for-the-badge" alt="WorldSkills Shanghai 2026"/>
 </a>
 
-<br/><br/>
+### Building ideas into meaningful digital experiences.
 
-### Turning ideas into thoughtful digital experiences.
+*Code with purpose. Design with intention. Keep evolving.*
 
-I build for the web with a focus on **functionality, accessibility, visual identity, and meaningful user experiences.**
+🇨🇷 Costa Rica · Web Development · Creative Technology
 
-[Explore my work](#-selected-projects) · [My journey](#-worldskills-journey) · [Get in touch](#-lets-connect)
+[About me](#-about-me) · [Statistics](#-github-statistics) · [Projects](#-featured-projects) · [WorldSkills](#-worldskills-journey)
 
 </div>
 
 ---
 
-## `01` — THE DEVELOPER
+## ✦ ABOUT ME
 
-<table>
-<tr>
-<td width="58%" valign="top">
+Hi! I'm **Natalia Picado Fernández**, a web developer from Costa Rica.
 
-### Hi, I'm Natalia. 👋
+I enjoy combining programming, design, and problem-solving to build digital experiences that are functional, accessible, and visually thoughtful.
 
-I'm a web developer from **Costa Rica**, working at the intersection of technology, design, and problem-solving.
+My background includes web development, technical support, networking, and operating systems. I am continuously improving my skills through practical projects, technical challenges, and experimentation.
 
-My background combines web development with technical support, networking, and operating systems. I enjoy turning ideas into functional digital products, building thoughtful interfaces, and learning how things work behind the scenes.
-
-I believe great development isn't just about writing code. It's about **understanding people, solving real problems, and paying attention to the details.**
-
-</td>
-<td width="42%" valign="top">
-
-### CURRENTLY EXPLORING
-
-- Modern web development
-- Frontend architecture
-- Backend integration & REST APIs
-- Accessible interfaces
-- Creative digital experiences
-
-<br/>
-
-**BASED IN**  
-Costa Rica 🇨🇷
-
-**FOCUS**  
-Web Development
-
-**MINDSET**  
-Learn. Build. Improve.
-
-</td>
-</tr>
-</table>
+```javascript
+const natofer = {
+  name: "Natalia Picado Fernández",
+  alias: "NATOFER",
+  location: "Costa Rica 🇨🇷",
+  focus: ["Web Development", "UI", "Backend Integration"],
+  languages: ["JavaScript", "PHP", "HTML", "CSS"],
+  frameworks: ["Laravel", "Vue.js"],
+  databases: ["MySQL"],
+  tools: ["Git", "GitHub", "Docker"],
+  mindset: "Learn something. Build something. Improve something."
+};
+```
 
 ---
 
-## `02` — MY TECH UNIVERSE
+## ✦ GITHUB STATISTICS
+
+<div align="center">
+
+<a href="https://github.com/nato1516">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nato1516&show_icons=true&hide_border=true&bg_color=17131A&title_color=BB9AF7&icon_color=E4572E&text_color=F3EEF5&ring_color=E4572E&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/nato1516">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nato1516&layout=compact&hide_border=true&bg_color=17131A&title_color=BB9AF7&text_color=F3EEF5&langs_count=8" alt="Most used programming languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://git.io/streak-stats">
+  <img width="70%" src="https://streak-stats.demolab.com?user=nato1516&theme=transparent&hide_border=true&background=17131A&ring=E4572E&fire=FFB703&currStreakLabel=BB9AF7&sideLabels=F3EEF5&currStreakNum=F3EEF5&sideNums=F3EEF5&dates=9B93A5" alt="GitHub contribution streak"/>
+</a>
+
+</div>
+
+---
+
+## ✦ CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<a href="https://github.com/nato1516">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nato1516&bg_color=17131A&color=BB9AF7&line=E4572E&point=FFB703&area=true&hide_border=true&custom_title=NATOFER%20%2F%2F%20CONTRIBUTION%20ACTIVITY" alt="Contribution activity graph"/>
+</a>
+
+</div>
+
+---
+
+## ✦ TECH STACK
 
 <div align="center">
 
 ### FRONTEND
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=17131A" alt="JavaScript"/></a>
-<a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/></a>
+<img src="https://skillicons.dev/icons?i=html,css,js,vue&theme=dark" alt="HTML CSS JavaScript Vue.js"/>
 
-### BACKEND & DATA
+### BACKEND & DATABASES
 
-<a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
-<a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark" alt="PHP Laravel MySQL"/>
 
-### TOOLS & WORKFLOW
+### TOOLS & ENVIRONMENT
 
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/></a>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&theme=dark" alt="Git GitHub Docker VS Code Postman"/>
 
 </div>
 
 ---
 
-## `03` — SELECTED PROJECTS
-
-<div align="center">
-
-### A selection of things I've worked on.
-
-</div>
+## ✦ FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://surtrips.com/">
-<img src="https://placehold.co/700x360/21182B/F3EEF5?text=SURTRIPS&font=montserrat" width="100%" alt="SurTrips project cover"/>
-</a>
+### 01 / SurTrips
 
-### 01. SurTrips
+A web platform focused on travel experiences and digital discovery.
 
-A web platform focused on travel experiences, bringing destinations and digital discovery together.
+**Focus:** Web development · User experience
 
-**FOCUS:** Web experience · Travel
-
-[EXPLORE PROJECT ↗](https://surtrips.com/)
+[Explore project ↗](https://surtrips.com/)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://lavueltadelcoyote.vercel.app/home.html">
-<img src="https://placehold.co/700x360/352344/FFB703?text=LA+VUELTA+DEL+COYOTE&font=montserrat" width="100%" alt="La Vuelta del Coyote project cover"/>
-</a>
+### 02 / La Vuelta del Coyote
 
-### 02. La Vuelta del Coyote
+A web experience with its own identity and a content-focused interface.
 
-A web experience with its own identity and an interface designed around its content.
+**Focus:** Visual identity · Web interface
 
-**FOCUS:** Visual identity · Interface design
-
-[EXPLORE PROJECT ↗](https://lavueltadelcoyote.vercel.app/home.html)
+[Explore project ↗](https://lavueltadelcoyote.vercel.app/home.html)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://congreso-de-cafe.vercel.app/">
-<img src="https://placehold.co/700x360/5B2A86/F3EEF5?text=CONGRESO+DEL+CAFE&font=montserrat" width="100%" alt="Congreso del Café project cover"/>
-</a>
+### 03 / Congreso del Café
 
-### 03. Congreso del Café
+An event website designed to present information in a clear and organized way.
 
-An event website focused on presenting information through a clear, organized digital experience.
+**Focus:** Web design · Information architecture
 
-**FOCUS:** Event website · Information design
-
-[EXPLORE PROJECT ↗](https://congreso-de-cafe.vercel.app/)
+[Explore project ↗](https://congreso-de-cafe.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
+### 04 / More experiments
 
-<br/><br/>
+Explore my repositories to discover projects, practice exercises, and experiments with different technologies.
 
-### MORE IN PROGRESS
-
-Building, experimenting, and exploring new ways to create better digital experiences.
-
-<br/>
-
-<a href="https://github.com/nato1516?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-17131A?style=for-the-badge&logo=github&logoColor=F3EEF5" alt="Explore all repositories"/>
-</a>
-
-<br/><br/>
-
-</div>
+[Browse all repositories ↗](https://github.com/nato1516?tab=repositories)
 
 </td>
 </tr>
@@ -185,63 +158,55 @@ Building, experimenting, and exploring new ways to create better digital experie
 
 ---
 
-## `04` — WORLDSKILLS JOURNEY
+## ✦ WORLDSKILLS JOURNEY
 
 <div align="center">
 
-<a href="https://worldskills.org/">
 <img src="https://img.shields.io/badge/WORLDSKILLS_COSTA_RICA-2025-17131A?style=for-the-badge" alt="WorldSkills Costa Rica 2025"/>
-</a>
 
 # 🥈 Silver Medal
 
-### Web Technologies
-
-National Competition · Costa Rica
+**Web Technologies · National Competition**
 
 <br/>
 
-<a href="https://worldskills.org/">
 <img src="https://img.shields.io/badge/WORLDSKILLS_SHANGHAI-2026-5B2A86?style=for-the-badge" alt="WorldSkills Shanghai 2026"/>
-</a>
 
 # Competitor
 
-### Representing Costa Rica 🇨🇷
+**Representing Costa Rica 🇨🇷**
 
 </div>
 
-My technical preparation with **INA and WorldSkills Costa Rica** has challenged me to strengthen my development skills through practical exercises, technical requirements, and demanding time constraints.
+My technical preparation with **INA and WorldSkills Costa Rica** has strengthened my ability to build web solutions, solve technical challenges, and work with precision under time constraints.
 
-My training includes **HTML, CSS, JavaScript, PHP, Laravel, Vue.js, databases, Git, and API integration**.
-
-More than a competition, this journey represents discipline, adaptability, continuous learning, and the commitment to becoming a better developer.
+This journey continues to motivate me to learn, adapt, and push my technical skills further.
 
 ---
 
-## `05` — WHAT DRIVES ME
+## ✦ WHAT DRIVES ME
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### ◈ Curiosity
+**01 / Curiosity**
 
-Exploring technologies, asking questions, and understanding how things work.
-
-</td>
-<td width="33%" valign="top">
-
-### ◈ Creativity
-
-Building interfaces that combine visual identity, clarity, and usability.
+Exploring technologies and understanding how things work.
 
 </td>
 <td width="33%" valign="top">
 
-### ◈ Consistency
+**02 / Creativity**
 
-Improving through practice, feedback, and the willingness to keep learning.
+Combining visual identity, functionality, and usability.
+
+</td>
+<td width="33%" valign="top">
+
+**03 / Consistency**
+
+Learning through practice, feedback, and continuous improvement.
 
 </td>
 </tr>
@@ -249,44 +214,28 @@ Improving through practice, feedback, and the willingness to keep learning.
 
 ---
 
-## `06` — BEYOND THE CODE
-
-```text
-> THINK   in systems
-> DESIGN  with intention
-> BUILD   with purpose
-> LEARN   without limits
-```
-
-I bring together a technical foundation, a creative mindset, and a genuine interest in solving problems. I'm always looking for opportunities to learn, collaborate, and create digital experiences that make a difference.
-
----
-
-## `07` — LET'S CONNECT
+## ✦ LET'S CONNECT
 
 <div align="center">
 
 ### Have an idea worth building?
 
-I'm open to connecting with developers, collaborating on projects, and exploring opportunities to grow.
-
-<br/>
+Let's connect, exchange ideas, and create something meaningful.
 
 <a href="mailto:nataliapicadofernandez16@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL_ME-E4572E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
+  <img src="https://img.shields.io/badge/EMAIL-E4572E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/nato1516">
-<img src="https://img.shields.io/badge/GITHUB-17131A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-17131A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-5B2A86?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-**NATOFER**  
-*Designed with intention. Built with curiosity.*
+**NATOFER** · Designed with intention. Built with curiosity.
 
-Costa Rica · © Natalia Picado Fernández
+*Costa Rica 🇨🇷*
 
 </div>
