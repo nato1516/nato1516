@@ -1,121 +1,222 @@
- <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:17131A,45:352344,100:5B2A86&text=NATOFER.&fontSize=90&fontColor=F3EEF5&fontAlignY=42&desc=CODE%20WITH%20PURPOSE%20%E2%80%A2%20DESIGN%20WITH%20INTENTION&descSize=13&descAlignY=65&animation=fadeIn" />
-
-<br/>
-
-**WEB DEVELOPER · CREATIVE TECHNOLOGY**
-
-Costa Rica 🇨🇷 · WorldSkills Shanghai 2026
-
-[PORTFOLIO](https://github.com/nato1516?tab=repositories)　/　[PROJECTS](https://github.com/nato1516?tab=repositories)　/　[CONTACT](mailto:nataliapicadofernandez16@gmail.com)
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=E4572E" />
-
-### <img src="https://img.shields.io/badge/01-ABOUT-5B2A86?style=flat-square" />
-
-# Technology meets creativity.
-
-I build digital experiences with a focus on **functionality, thoughtful interfaces, and clean implementation**. My background combines web development with technical support, networking, and operating systems.
-
-I enjoy turning ideas into practical solutions, learning through experimentation, and solving problems with technology.
-
-<br/>
-
-### <img src="https://img.shields.io/badge/02-TECHNOLOGY-5B2A86?style=flat-square" />
+ <!-- NATOFER — GITHUB PROFILE README -->
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,php,laravel,mysql&theme=dark" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:080808,35:101A40,70:164BFF,100:080808&text=NATOFER&fontColor=FFFFFF&fontSize=100&fontAlignY=45&desc=WEB%20DEVELOPER%20%2F%20CREATIVE%20TECHNOLOGY&descAlignY=65&descSize=17&animation=fadeIn" width="100%" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=17&duration=3000&pause=900&color=FFD43B&center=true&vCenter=true&width=750&lines=I+TURN+IDEAS+INTO+DIGITAL+EXPERIENCES.;CODE.+DESIGN.+EXPERIMENT.+REPEAT.;FROM+COSTA+RICA+TO+WORLDSKILLS+SHANGHAI+2026." alt="Typing SVG" />
+
+<br><br>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FFD43B?style=for-the-badge&logo=firefoxbrowser&logoColor=080808)](https://github.com/nato1516)
+[![GitHub](https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=080808)](https://github.com/nato1516)
+[![Email](https://img.shields.io/badge/CONTACT-164BFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:nataliapicadofernandez16@gmail.com)
+
+<br>
+
+`COSTA RICA 🇨🇷` &nbsp; / &nbsp; `WEB DEVELOPMENT` &nbsp; / &nbsp; `CREATIVE TECHNOLOGY`
+
+</div>
+
+---
+
+<img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
+
+## `01 / THE DEVELOPER`
+
+**Natalia Picado Fernández** — known online as **NATOFER**.
+
+I'm a web developer from Costa Rica interested in the intersection of technology, functionality, and visual identity.
+
+My background combines web development with technical support, networking, and operating systems. I enjoy understanding how things work, experimenting with new technologies, and turning ideas into practical digital experiences.
+
+I care about the details: the way an interface feels, how information flows, and whether a solution genuinely works for the people using it.
+
+<br clear="right"/>
+
+> *Good code solves problems. Thoughtful design makes solutions matter.*
+
+---
+
+## `02 / TECH ARSENAL`
+
+<div align="center">
+
+**— FRONTEND —**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,vue&theme=dark" />
+
+**— BACKEND & DATABASES —**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark" />
+
+**— TOOLS & ENVIRONMENT —**
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
 
 </div>
 
-<br/>
+---
 
-### <img src="https://img.shields.io/badge/03-SELECTED_WORK-5B2A86?style=flat-square" />
+## `03 / SELECTED WORK`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**01 / SURTRIPS**
+### ◈ SURTRIPS
 
-A travel-focused digital platform.
+A web platform focused on travel experiences.
 
-[↗ Explore project](https://surtrips.com/)
+**FOCUS** / Web experience
+
+[EXPLORE PROJECT ↗](https://surtrips.com/)
 
 </td>
 <td width="50%" valign="top">
 
-**02 / LA VUELTA DEL COYOTE**
+### ◈ LA VUELTA DEL COYOTE
 
-A dedicated web experience.
+A web experience with a distinct identity and accessible interface.
 
-[↗ Explore project](https://lavueltadelcoyote.vercel.app/home.html)
+**FOCUS** / Interface & usability
+
+[EXPLORE PROJECT ↗](https://lavueltadelcoyote.vercel.app/home.html)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-**03 / CONGRESO DEL CAFÉ**
+### ◈ CONGRESO DEL CAFÉ
 
-A website created for a coffee congress.
+An event website built to present information in a clear, organized, and engaging way.
 
-[↗ Explore project](https://congreso-de-cafe.vercel.app/)
+**FOCUS** / Information architecture & web design
 
-</td>
-<td width="50%" valign="top">
-
-**04 / MORE IN PROGRESS**
-
-Exploring new ideas, technologies, and ways to build better digital products.
-
-[↗ Browse repositories](https://github.com/nato1516?tab=repositories)
+[EXPLORE PROJECT ↗](https://congreso-de-cafe.vercel.app/)
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-### <img src="https://img.shields.io/badge/04-WORLDSKILLS-5B2A86?style=flat-square" />
+## `04 / WORLDSKILLS`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/WORLDSKILLS_COSTA_RICA-2025-17131A?style=for-the-badge&labelColor=352344" />
+<img src="https://img.shields.io/badge/WORLDSKILLS_COSTA_RICA-2025-FFD43B?style=for-the-badge&labelColor=080808" />
 
-<br/><br/>
+# 🥈 Silver Medal
 
-<img src="https://img.shields.io/badge/SILVER_MEDAL-WEB_TECHNOLOGIES-E4572E?style=for-the-badge&logoColor=white" />
+### WEB TECHNOLOGIES
 
-<br/><br/>
+<br>
 
-**Competitor representing Costa Rica**  
-WorldSkills Shanghai 2026
+<img src="https://img.shields.io/badge/WORLDSKILLS_SHANGHAI-2026-164BFF?style=for-the-badge&labelColor=080808" />
+
+# Competitor · Costa Rica 🇨🇷
 
 </div>
 
-<br/>
+My technical preparation with **INA and WorldSkills Costa Rica** has pushed me to approach development through practical challenges, precision, and problem-solving under time constraints.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=5B2A86" />
+My training includes HTML, CSS, JavaScript, PHP, Laravel, Vue.js, databases, Git, and API integration.
+
+**The goal:** keep learning, keep building, and keep raising the standard.
+
+---
+
+## `05 / OPERATING PRINCIPLES`
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### ◉ CURIOSITY
+
+Exploring technologies and understanding how things work.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### ◈ CREATIVITY
+
+Building interfaces with personality, clarity, and purpose.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### ◎ CONSISTENCY
+
+Improving through practice, feedback, and iteration.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `06 / CURRENT TRANSMISSION`
+
+```javascript
+const natofer = {
+  name: "Natalia Picado Fernández",
+  alias: "NATOFER",
+  location: "Costa Rica 🇨🇷",
+
+  focus: [
+    "Web Development",
+    "UI & Accessibility",
+    "Backend Integration"
+  ],
+
+  technologies: [
+    "JavaScript",
+    "Vue.js",
+    "PHP",
+    "Laravel",
+    "MySQL"
+  ],
+
+  mission: "Turning ideas into thoughtful digital experiences.",
+
+  status: "Always learning. Always building."
+};
+
+export default natofer;
+```
+
+---
+
+## `07 / ESTABLISH CONNECTION`
 
 <div align="center">
 
-### HAVE AN IDEA? LET'S BUILD IT.
+### HAVE SOMETHING INTERESTING IN MIND?
 
-<a href="mailto:nataliapicadofernandez16@gmail.com">
-<img src="https://img.shields.io/badge/GET_IN_TOUCH-17131A?style=for-the-badge&logo=gmail&logoColor=BB9AF7" />
+Projects, collaborations, or opportunities — let's connect.
+
+<br>
+
+[![LET'S TALK](https://img.shields.io/badge/LET'S_TALK-FFD43B?style=for-the-badge&logo=gmail&logoColor=080808)](mailto:nataliapicadofernandez16@gmail.com)
+
+<br>
+
+<a href="https://github.com/nato1516">
+<img src="https://img.shields.io/badge/BUILT_WITH_CURIOSITY-080808?style=flat-square&logo=github&logoColor=FFD43B" />
 </a>
 
-<br/><br/>
+<br><br>
 
-<sub>© NATOFER · Designed with intention. Built with curiosity.</sub>
+**NATOFER** / Designed with intention in Costa Rica.
+
+<sub>© Natalia Picado Fernández · CODE WITH PURPOSE.</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FFD43B,50:164BFF,100:080808" width="100%" />
+
